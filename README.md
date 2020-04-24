@@ -13,3 +13,6 @@ $ git get -u github.com/higashi000/block-mitsubot
 
 $ block-mitsubot
 ```
+
+## License
+- [NYSL](http://www.kmonos.net/nysl/)
